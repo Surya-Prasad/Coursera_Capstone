@@ -13,7 +13,7 @@ Here, the target audience is anyone who wants a group of venues similar to the v
 
 ### Data
 
-<img src = './Images/Chennai.jpeg' width = 600 height = 500 style="horizontal-align:middle">
+<img src = './Images/Chennai.jpeg' width = 550 height = 400 style="align:middle">
 
 ##### The Data
 The target for our analysis is the Metropolitan City Chennai, the Capital of Tamil Nadu, India. The reason for choosing this target is because firstly, Chennai is a growing metropolitan, and is hence is guaranteed to have a healthy presence and lack of venues alike. Some areas might be rich in some trades, and other areas lacking. Also, Chennai being one of the larger cities, the data exists.
